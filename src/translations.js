@@ -45,7 +45,7 @@ const translations = {
       heading: 'Our Impact So Far',
       sub: 'Thanks to generous donors like you, here is what we have achieved together on the ground.',
       msg:'"My daughter now goes to school every day. Before Uplift-All came to our village, we had no books, no classroom. Today she wants to be a doctor."',
-      person:'— Sunita Devi, Rajasthan',
+      person:'— Sunita Devi, Jalna',
       stats: [
         { icon: '👨‍👩‍👧‍👦', value: '1,24,000+', label: 'People Helped', color: 'text-violet-500' },
         { icon: '📖', value: '38,500+', label: 'Children Now Studying', color: 'text-blue-500' },
@@ -123,7 +123,7 @@ const translations = {
       heading: 'अब तक का हमारा प्रभाव',
       sub: 'आप जैसे उदार दानकर्ताओं की बदौलत हमने मिलकर यह हासिल किया है।',
       msg:'“मेरी बेटी अब हर दिन स्कूल जाती है। हमारे गाँव में Uplift-All के आने से पहले हमारे पास न किताबें थीं, न कक्षा। आज वह डॉक्टर बनना चाहती है।”',
-      person:'— सुनीता देवी, राजस्थान',
+      person:'— सुनीता देवी, जालना',
       stats: [
         { icon: '👨‍👩‍👧‍👦', value: '1,24,000+', label: 'लोगों की मदद की', color: 'text-violet-500' },
         { icon: '📖', value: '38,500+', label: 'बच्चे अब पढ़ रहे हैं', color: 'text-blue-500' },
