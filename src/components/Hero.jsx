@@ -13,11 +13,14 @@ export default function Hero({ dark, t }) {
   ]
 
   function handleDonate() {
-  setDonated(true)
-  setCustomAmt('')
-  setSelectedAmt('')
-  setTimeout(() => setDonated(false), 3000)
+    setDonated(true)
+    setTimeout(() => {
+      setCustomAmt('')
+      setSelectedAmt('')
+     }, 1000)
+    setTimeout(() => setDonated(false), 3000)
   }
+
 
 
 
